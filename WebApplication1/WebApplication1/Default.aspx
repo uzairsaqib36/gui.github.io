@@ -10,6 +10,9 @@
             <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         </p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+        <p>
+            <asp:Button ID="Button2" runat="server" Text="Button" />
+        </p>
     </div>
 
     <div class="row">
